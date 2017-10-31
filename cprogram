@@ -1,0 +1,13 @@
+Include<stdio.h>
+Include<lib.h>
+main
+{ 
+    int a,b,c;
+    a=2;
+    b=3;
+    c=a+b;
+    printf(" value is %d" , c);
+    clrscr ();
+
+}
+getch;
